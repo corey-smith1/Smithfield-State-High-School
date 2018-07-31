@@ -1,3 +1,6 @@
+//Bellow link is how to wire up the component
+//https://42bots.com/wp-content/uploads/2014/10/Arduino_Joystick-wiring-diagram.png
+
 int xPin = A1;
 int yPin = A0;
 int buttonPin = 2;
